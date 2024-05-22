@@ -17,7 +17,7 @@ A Computer Engineering Student
   A C programming project to illustrate c programming concepts.
   
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/ersubashgautam)
+- [LinkedIn](https://www.linkedin.com/in/sgthecoder)
 - [Twitter](https://twitter.com/ersubashgautam)
 - **Email:** subashgautam977@gmail.com
 
