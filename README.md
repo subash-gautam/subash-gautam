@@ -9,9 +9,9 @@ I'm a Computer engineering student
   <!-- **Databases:** MongoDB, MySQL, PostgreSQL -->
 
 ## Projects
-- [Market Sphere - Minor Project]([https://github.com/username/project-one](https://github.com/subash-gautam/Market-Sphere)
+- [Market Sphere - Minor Project](https://github.com/subash-gautam/Market-Sphere)
   An e-commerse website to allow users buy/sell their product online.
-- [Salon Management System]([https://github.com/username/project-two](https://github.com/subash-gautam/Salon-Management-System-Software-Engineering-Project-)
+- [Salon Management System](https://github.com/subash-gautam/Salon-Management-System-Software-Engineering-Project-)
   A web based application help to book barber near by.
 - [Bank Management System - in C programming](https://github.com/subash-gautam/C-Bank-Management-Program)
   A C programming project to illustrate c programming concepts.
