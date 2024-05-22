@@ -13,7 +13,7 @@ I'm a Computer engineering student
   An e-commerse website to allow users buy/sell their product online.
 - [Salon Management System]([https://github.com/username/project-two](https://github.com/subash-gautam/Salon-Management-System-Software-Engineering-Project-))  
   A web based application help to book barber near by.
-- [Bank Management System - in C programming](https://github.com/subash-gautam/C-Bank-Management-Program)
+- [Bank Management System - in C programming](https://github.com/subash-gautam/C-Bank-Management-Program))
   A C programming project to illustrate c programming concepts.
   
 ## Contact
