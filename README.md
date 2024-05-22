@@ -1,6 +1,6 @@
 # Hi there, I'm Subash Gautam👋
 
-I'm a Computer engineering student 
+A Computer Engineering Student 
 
 ## Skills
 - **Languages:** C, C++, JavaScript
