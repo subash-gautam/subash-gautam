@@ -1,13 +1,13 @@
 # Hi there, I'm Subash Gautam👋
 
 A Computer Engineering Student 
-
+<!--
 ## Skills
 - **Languages:** C, C++, JavaScript
 - **Front-end:** HTML, CSS, JavaScript, React
 - **Back-end:** Node JS
   <!-- **Databases:** MongoDB, MySQL, PostgreSQL -->
-
+<!--
 ## Projects
 - [Market Sphere - Minor Project](https://github.com/subash-gautam/Market-Sphere)
   An e-commerse website to allow users buy/sell their product online.
@@ -24,7 +24,7 @@ A Computer Engineering Student
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subash-gautam&layout=compact)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subash-gautam&show_icons=true)
 
-
+-->
 <!--
 **subash-gautam/subash-gautam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
