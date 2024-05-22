@@ -1,4 +1,29 @@
-# Hi there 👋
+# Hi there, I'm Subash Gautam👋
+
+I'm a Computer engineering student 
+
+## Skills
+- **Languages:** JavaScript
+- **Front-end:** HTML, CSS, JavaScript, React
+- **Back-end:** Node JS
+  <!-- **Databases:** MongoDB, MySQL, PostgreSQL -->
+
+## Projects
+- [**Market Sphere - Minor Project**]([https://github.com/username/project-one](https://github.com/subash-gautam/Market-Sphere))  
+  An e-commerse website to allow users buy/sell their product online.
+- [**Salon Management System**]([https://github.com/username/project-two](https://github.com/subash-gautam/Salon-Management-System-Software-Engineering-Project-))  
+  A web based application help to book barber near by.
+- [**Bank Management System - in C programming **]
+  A C programming project to illustrate c programming concepts.
+  
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/ersubashgautam)
+- [Twitter](https://twitter.com/ersubashgautam)
+- **Email:** subashgautam977@gmail.com
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subash-gautam&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subash-gautam&show_icons=true)
+
 
 <!--
 **subash-gautam/subash-gautam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
