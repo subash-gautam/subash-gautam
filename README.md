@@ -3,7 +3,7 @@
 I'm a Computer engineering student 
 
 ## Skills
-- **Languages:** JavaScript
+- **Languages:** C, C++, JavaScript
 - **Front-end:** HTML, CSS, JavaScript, React
 - **Back-end:** Node JS
   <!-- **Databases:** MongoDB, MySQL, PostgreSQL -->
