@@ -1,6 +1,7 @@
 # Hi there, I'm Subash Gautam👋
 
-A Computer Engineering Student 
+A Computer Engineering Student
+
 <!--
 ## Skills
 - **Languages:** C, C++, JavaScript
@@ -15,7 +16,7 @@ A Computer Engineering Student
   A web based application help to book barber near by.
 - [Bank Management System - in C programming](https://github.com/subash-gautam/C-Bank-Management-Program)
   A C programming project to illustrate c programming concepts.
-  
+
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/ersubashgautam)
 - [Twitter](https://twitter.com/ersubashgautam)
