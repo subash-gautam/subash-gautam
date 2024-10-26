@@ -1,6 +1,6 @@
 # Hi there, I'm Subash Gautam👋
 
-A Computer Engineering Student
+## A Computer Engineering Student
 
 <!--
 ## Skills
