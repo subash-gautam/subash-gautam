@@ -1,42 +1,37 @@
-# Hi there, I'm Subash Gautam👋
+# Hi there! 👋 I'm Subash Gautam
 
-## A Computer Engineering Student
+Welcome to my GitHub profile! I'm a **computer engineering student**, **web developer**, and aspiring **independent engineer**. 🚀
 
-<!--
-## Skills
-- **Languages:** C, C++, JavaScript
-- **Front-end:** HTML, CSS, JavaScript, React
-- **Back-end:** Node JS
-  <!-- **Databases:** MongoDB, MySQL, PostgreSQL -->
-<!--
-## Projects
-- [Market Sphere - Minor Project](https://github.com/subash-gautam/Market-Sphere)
-  An e-commerse website to allow users buy/sell their product online.
-- [Salon Management System](https://github.com/subash-gautam/Salon-Management-System-Software-Engineering-Project-)
-  A web based application help to book barber near by.
-- [Bank Management System - in C programming](https://github.com/subash-gautam/C-Bank-Management-Program)
-  A C programming project to illustrate c programming concepts.
+---
 
-## Contact
-- [LinkedIn](https://www.linkedin.com/in/ersubashgautam)
-- [Twitter](https://twitter.com/ersubashgautam)
-- **Email:** subashgautam977@gmail.com
+## 👨‍💻 About Me
+- 🎓 Final year Computer Engineering student  
+- 💡 Passionate about **development** and **exploring new technologies**  
+- 📍 Based in **Nepal**, near the beautiful **Mount Everest** 🏔️  
+- 🌱 Currently learning: **Backend Development**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subash-gautam&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subash-gautam&show_icons=true)
+---
 
--->
-<!--
-**subash-gautam/subash-gautam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Technologies & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EngT-YT&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EngT-YT&layout=compact&theme=radical)
+
+---
+
+## 🌍 Find Me Elsewhere
+- 📺 [YouTube Channel](https://www.youtube.com/@EngT-YT)
+- 💼 [Upwork Profile](https://www.upwork.com/)
+- 🌐 [Portfolio](#) *(Coming Soon)*  
+
+---
+
+### 🚀 Let's Collaborate!
+Feel free to reach out for collaborations or just a chat. 😊
