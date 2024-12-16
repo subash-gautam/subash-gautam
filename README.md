@@ -36,7 +36,7 @@ Welcome to my GitHub profile! I'm a **computer engineering student**, **web deve
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ersubashgautam/)
 - 🌐 [Portfolio](https://portfolio.subash17.com.np/)
 - 💼 [Upwork](https://www.upwork.com/~01c59296583c29fcfd)
-- 📺 [YouTube Channel](https://www.youtube.com/@इएनजीटी)
+- 📺 [YouTube](https://www.youtube.com/@इएनजीटी)
 ---
 
 ### 🚀 Let's Collaborate!
