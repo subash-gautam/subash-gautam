@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I'm a **computer engineering student**, **web deve
 ---
 
 ## 📊 Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EngT-YT&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EngT-YT&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subash-gautam&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subash-gautam&layout=compact&theme=radical)
 
 ---
 
