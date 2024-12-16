@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a **computer engineering student**, **web deve
 
 🔗[LinkedIn](https://www.linkedin.com/in/ersubashgautam/)
 🌐[Portfolio](https://portfolio.subash17.com.np/)
-💼[Upwork](https://www.upwork.com/~01c59296583c29fcfd)
+💼[Upwork](https://www.upwork.com/freelancers/~01c59296583c29fcfd)
 📺[YouTube](https://www.youtube.com/@इएनजीटी)
 
 ---
