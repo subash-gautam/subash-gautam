@@ -5,10 +5,11 @@ Welcome to my GitHub profile! I'm a **computer engineering student**, **web deve
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Final year Computer Engineering student  
-- 💡 Passionate about **development** and **exploring new technologies**  
-- 📍 Based in **Nepal**, near the beautiful **Mount Everest** 🏔️  
-- 🌱 Currently learning: **Backend Development**
+
+-   🎓 Final year Computer Engineering student
+-   💡 Passionate about **development** and **exploring new technologies**
+-   📍 Based in **Nepal**, near the beautiful **Mount Everest** 🏔️
+-   🌱 Currently learning: **Backend Development**
 
 ---
 
@@ -24,20 +25,25 @@ Welcome to my GitHub profile! I'm a **computer engineering student**, **web deve
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ---
 
 ## 📊 Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subash-gautam&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=subash-gautam&layout=compact&theme=radical)
 
 ---
 
 ## 🌍 Find Me Elsewhere
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ersubashgautam/)
-- 🌐 [Portfolio](https://portfolio.subash17.com.np/)
-- 💼 [Upwork](https://www.upwork.com/~01c59296583c29fcfd)
-- 📺 [YouTube](https://www.youtube.com/@इएनजीटी)
+
+🔗[LinkedIn](https://www.linkedin.com/in/ersubashgautam/)
+🌐[Portfolio](https://portfolio.subash17.com.np/)
+💼[Upwork](https://www.upwork.com/~01c59296583c29fcfd)
+📺[YouTube](https://www.youtube.com/@इएनजीटी)
+
 ---
 
 ### 🚀 Let's Collaborate!
+
 Feel free to reach out for collaborations or just a chat. 😊
