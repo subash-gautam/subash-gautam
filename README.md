@@ -11,8 +11,6 @@ Welcome to my GitHub profile! I'm a **computer engineering student**, **web deve
 -   📍 Based in **Nepal**, near the beautiful **Mount Everest** 🏔️
 -   🌱 Currently learning: **Backend Development**
 
----
-
 ## 🛠️ Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -38,10 +36,10 @@ Welcome to my GitHub profile! I'm a **computer engineering student**, **web deve
 
 ## 🌍 Find Me Elsewhere
 
-🔗[LinkedIn](https://www.linkedin.com/in/ersubashgautam/)
-🌐[Portfolio](https://portfolio.subash17.com.np/)
-💼[Upwork](https://www.upwork.com/freelancers/~01c59296583c29fcfd)
-📺[YouTube](https://www.youtube.com/@इएनजीटी)
+- 🔗[LinkedIn](https://www.linkedin.com/in/ersubashgautam/)
+- 🌐[Portfolio](https://portfolio.subashgautam17.com.np/)
+- 💼[Upwork](https://www.upwork.com/freelancers/~01c59296583c29fcfd)
+- 📺[YouTube](https://www.youtube.com/@इएनजीटी)
 
 ---
 
